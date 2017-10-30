@@ -1,2 +1,3 @@
 # frontend-project-clus
-Frontend project with Clues 
+Frontend project at the  Clues 
+Projecting with Himesha 
